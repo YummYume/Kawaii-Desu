@@ -6,7 +6,7 @@ use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 
-class LuckyController extends AbstractController
+class startersController extends AbstractController
 {
     /**
      * @Route("/azur_lane/starter")
